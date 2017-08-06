@@ -12,6 +12,6 @@ Welcome pull request!
 
 # Speech
 
-[10686 一次 CTC-RNN 调参经历 - 知乎专栏](https://zhuanlan.zhihu.com/p/28133530)
+- [10686 一次 CTC-RNN 调参经历 - 知乎专栏](https://zhuanlan.zhihu.com/p/28133530)
 
 
