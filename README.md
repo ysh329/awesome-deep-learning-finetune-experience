@@ -8,7 +8,8 @@ Welcome pull request!
 
 ## Image Classification
 
-- [CVPR2017] [Squeeze-and-Excitation networks (ILSVRC 2017 winner) at CVPR2017](http://image-net.org/challenges/talks_2017/SENet.pdf)  
+- [CVPR 2017] [Squeeze-and-Excitation networks (ILSVRC 2017 winner) at CVPR2017](http://image-net.org/challenges/talks_2017/SENet.pdf)  
+- [FAIR 2017] [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
 
 ## Movie Description
 
