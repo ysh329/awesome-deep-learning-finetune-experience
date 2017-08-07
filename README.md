@@ -9,8 +9,23 @@ Welcome pull request!
 ## Image Classification
 
 - [CVPR2017] [Squeeze-and-Excitation networks (ILSVRC 2017 winner) at CVPR2017](http://image-net.org/challenges/talks_2017/SENet.pdf)  
-- [LSMDC 2016电影描述竞赛第一名方案] [Video Description by Combining Strong Representation and a Simple Nearest Neighbor Approach](https://drive.google.com/file/d/0B9nOObAFqKC9Sk0wbk1kX0l4N3M/view) [[pdf]](https://pan.baidu.com/s/1mhNghBy) ref:[[《Temporal Tessellation: A Unified Approach for Video Analysis》(2017)]](https://arxiv.org/abs/1612.06950) 
+- [LSMDC 2016电影描述竞赛第一名方案] [Video Description by Combining Strong Representation and a Simple Nearest Neighbor Approach](https://drive.google.com/file/d/0B9nOObAFqKC9Sk0wbk1kX0l4N3M/view) [[pdf]](https://pan.baidu.com/s/1mhNghBy) ref:[[《Temporal Tessellation: A Unified Approach for Video Analysis》(2017)]](https://arxiv.org/abs/1612.06950)  
 - [LSMDC 2016电影标记与检索竞赛第一名方案] [Video Captioning and Retrieval Models with Semantic Attention](https://drive.google.com/file/d/0B9nOObAFqKC9aHl2VWJVNFp1bFk/view) [[pdf]](https://pan.baidu.com/s/1slseaO9) ref:[[《End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering》 (2017)]](https://arxiv.org/abs/1610.02947) 
+
+## Movie Description
+
+- [LSMDC 2016] [1st place: Video Description by Combining Strong Representation and a Simple Nearest Neighbor Approach. Gil Levi, Dotan Kaufman, Lior Wolf (Tel Aviv University), Tal Hassner (University of Southern California)](https://arxiv.org/pdf/1612.06950v1.pdf) [[slides](https://drive.google.com/open?id=0B9nOObAFqKC9Sk0wbk1kX0l4N3M)]
+
+## Movie Annotation and Retrieval
+
+- [LSMDC 2016] [1st place: Video Captioning and Retrieval Models with Semantic Attention. YoungJae Yu, Hyungjin Ko, Jongwook Choi, Gunhee Kim (Seoul National University)](https://arxiv.org/pdf/1610.02947v1.pdf) [[slides](https://drive.google.com/open?id=0B9nOObAFqKC9aHl2VWJVNFp1bFk)]  
+- [LSMDC 2016] [2st place: Video Description by Combining Strong Representation and a Simple Nearest Neighbor Approach. Gil Levi, Dotan Kaufman, Lior Wolf (Tel Aviv University), Tal Hassner (University of Southern California)](https://arxiv.org/pdf/1612.06950v1.pdf)
+
+## Movie Fill-in-the-Blank
+
+- [LSMDC 2016] [1st place: Video Captioning and Retrieval Models with Semantic Attention. YoungJae Yu, Hyungjin Ko, Jongwook Choi, Gunhee Kim (Seoul National University)](https://arxiv.org/pdf/1610.02947v1.pdf)
+
+- [LSMDC 2016] [2st place: Video Fill in the Blank with Merging LSTMs. Amir Mazaheri, Dong Zhang, Mubarak Shah (University of Central Florida)](https://arxiv.org/pdf/1610.04062.pdf)
 
 # Speech
 
