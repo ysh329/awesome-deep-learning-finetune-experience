@@ -4,6 +4,12 @@ This repository not only contains experience about parameter finetune, but also 
 
 Welcome pull request! 
 
+#　General
+
+- [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)  
+- [williamFalcon/DeepRLHacks: Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp (Aug 2017)](https://github.com//williamFalcon/DeepRLHacks)
+
+
 # Hyper-parameter search
 
 - [Scikit-learn hyperparameter search wrapper | skopt API documentation](https://scikit-optimize.github.io/notebooks/sklearn-gridsearchcv-replacement.html)
