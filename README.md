@@ -9,6 +9,11 @@ Welcome pull request!
 - [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)  
 - [williamFalcon/DeepRLHacks: Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp (Aug 2017)](https://github.com//williamFalcon/DeepRLHacks)
 
+# Stacking & Boosting & Ensemble
+
+- [模型融合方法概述 | 知乎专栏](https://zhuanlan.zhihu.com/p/25836678)
+- [如何在 Kaggle 首战中进入前 10% | Wille](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
+- [Introduction to Ensembling/Stacking in Python | Kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
 # Hyper-parameter search
 
