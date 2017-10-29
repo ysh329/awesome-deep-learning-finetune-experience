@@ -31,6 +31,10 @@ Welcome pull request!
 
 - [Scikit-learn hyperparameter search wrapper | skopt API documentation](https://scikit-optimize.github.io/notebooks/sklearn-gridsearchcv-replacement.html) 
 
+# GAN 
+- [生成对抗网络综述：从架构到训练技巧，看这篇论文就够了 | 机器之心](https://mp.weixin.qq.com/s/uUSq3irEIcBM35JCYGDPfw) [[英文原文](https://arxiv.org/abs/1710.07035)]
+
+
 
 # Computer Vision
 
